@@ -19,7 +19,7 @@ The Challenge Application is a robust web application designed to facilitate the
 
 ## Installation
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone https://github.com/premlalwani09/Challenge-Application.git`
 2. Navigate to the project directory: `cd challenge-application`
 3. Build the project: `mvn clean install`
 
